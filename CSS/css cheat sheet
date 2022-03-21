@@ -1,0 +1,27 @@
+CSS cheatsheet
+reference: w3schools/CSS,css-trick.com
+
+Cascading Styles Sheetsat the most basic level it indecates
+that the order of CSS rule mater.
+
+.class 
+#id 
+*
+element
+element,element
+element element
+element > element
+element + element
+:hover
+:last-child
+:first-child
+!important (not recommended)
+
+What seletors win out in the cascade depend on:
+-specificity //we can use specificity calculator.
+-Importance
+-Source order
+
+
+we can use google fonts to import fonts from web and incorporate
+in our website
